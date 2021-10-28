@@ -9,7 +9,7 @@ Although iis-config.json file has options for site name, pool name and bindings,
 1. Download the psm1 file and save to
 c:\\users\\\$Username\\Documents\\WindowsPowerShell\\Modules\\IISBuilderHelper\\IISBuilderHelper.psm1
 
-2. Check everything is by opening powershell and runing the following command
+2. Check everything is OK by opening powershell and runing the following command
 Get-Module -ListAvailable -Name IISBuilderHelper
 
 You should see _Setup-IIS_ under the ExportedCommands column.
